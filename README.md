@@ -35,7 +35,7 @@
 <a href="https://twitter.com/ashishsarout" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashishsarout" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ashishsarout" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashishsarout" height="30" width="40" /></a>
 <a href="https://codesandbox.com/ashishsarout" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="ashishsarout" height="30" width="40" /></a>
-<a href="https://instagram.com/ashishsarout" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashishsarout" height="30" width="40" /></a>
+<a href="https://instagram.com/ashish.sarout" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashishsarout" height="30" width="40" /></a>
 <a href="https://dribbble.com/ashishsarout" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="ashishsarout" height="30" width="40" /></a>
 <a href="https://medium.com/ashishsarout" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="ashishsarout" height="30" width="40" /></a>
 </p>
