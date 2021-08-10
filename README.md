@@ -48,11 +48,13 @@
 <p><a href="https://www.buymeacoffee.com/ashishsolanki"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ashishsolanki" /></a></p><br><br>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashishsarout&show_icons=true&locale=en&layout=compact" alt="ashishsarout" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishsarout)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishsarout&show_icons=true&locale=en" alt="ashishsarout" /></p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ashishsarout&show_icons=true&count_private=true)  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishsarout&" alt="ashishsarout" /></p>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ashishsarout)  
+
+![GitHub metrics](https://metrics.lecoq.io/ashishsarout)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ashishsarout)  
 
