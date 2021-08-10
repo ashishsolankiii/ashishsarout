@@ -55,7 +55,3 @@
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ashishsarout)  
 
 ![GitHub metrics](https://metrics.lecoq.io/ashishsarout)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ashishsarout)  
-
-![GitHub metrics](https://metrics.lecoq.io/ashishsarout)  
