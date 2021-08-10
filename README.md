@@ -48,9 +48,9 @@
 <p><a href="https://www.buymeacoffee.com/ashishsolanki"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ashishsolanki" /></a></p><br><br>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashishsarout&show_icons=true&locale=en&layout=compact" <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishsarout&show_icons=true&locale=en" alt="ashishsarout" alt="ashishsarout" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashishsarout&show_icons=true&locale=en&layout=compact" alt="ashishsarout" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishsarout&show_icons=true&locale=en" alt="ashishsarout" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishsarout&show_icons=true&locale=en" <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishsarout&" alt="ashishsarout"  alt="ashishsarout" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishsarout&" alt="ashishsarout" /></p>
 
