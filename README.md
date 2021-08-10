@@ -45,7 +45,8 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/ashishsolanki"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="ashishsolanki" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/ashishsolanki"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="200" width="400" alt="ashishsolanki" /></a></p><br><br>
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashishsarout&show_icons=true&locale=en&layout=compact" alt="ashishsarout" /></p>
 
