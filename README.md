@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashish Solanki</h1>
-<h3 align="center">Security Researcher 👨🏻‍💻 | Data Scientist 👾 | Bug Hunter 🥲</h3>
+<h3 align="center">Security Researcher 👨🏻‍💻 | Data Scientist 👾 | Bug Hunter 🥲 | Open Source Contributor 🤌🏻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishsarout&label=Profile%20views&color=0e75b6&style=flat" alt="ashishsarout" /> </p>
 
