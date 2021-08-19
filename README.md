@@ -47,9 +47,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ashishsolanki"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ashishsolanki" /></a></p><br><br>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishsarout)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ashishsarout&show_icons=true&count_private=true)  
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishsarout&" alt="ashishsarout" /></p>
