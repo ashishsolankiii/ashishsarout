@@ -45,7 +45,7 @@
 
 <br><br>
 <a href="https://github.com/ashishsarout">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamlucif3r&show_icons=true&theme=radical&line_height=24" alt="Ashish's github stats"/></a>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishsarout&show_icons=true&theme=radical&line_height=24" alt="Ashish's github stats"/></a>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashishsarout&theme=dark)](https://git.io/streak-stats)
 
